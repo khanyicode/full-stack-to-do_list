@@ -7,6 +7,10 @@ def add_task():
     pass
 
 
+def delete_task():
+    pass
+
+
 def user_dashboard():
     pass
 
